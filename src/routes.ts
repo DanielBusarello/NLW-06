@@ -17,7 +17,7 @@ const createTagController = new CreateTagController();
 const createComplimentController = new CreateComplimentController();
 const authenticateUserController = new AuthenticateUserController();
 const listUserSentComplimentsController = new ListUserSentComplimentsController();
-const listUserReceivedComplimentsController = new ListUserSentComplimentsController();
+const listUserReceivedComplimentsController = new ListUserReceivedComplimentsController();
 const listTagsController = new ListTagsController();
 const listUserController = new ListUserController();
 
